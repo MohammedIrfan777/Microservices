@@ -12,7 +12,9 @@ Contains the movie information "reviews".
 # Rating Data Service.
 Contains the movie details and its rating.
 
-Each Microservices run independently and communicates each other.
+Each Microservices run independently and communicates each other. 
+Implemented the circuit breaker problem called #hystrix 
+Hystrix dashboard.
 
 
 
